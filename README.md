@@ -4,8 +4,12 @@ This tutorial is for anyone who wants to learn the basics of webdevelopment in P
 
 * [Chapter 1. Introduction into coding](https://github.com/Luceos/php-tutorial/blob/master/chapter.1.introduction.md)
 
-   Summary: the everyday effects
+   *What are the everyday effects of coding, how does it affect your life and can one identify code?*
 
 * Chapter 2. Different types of code
 
-   Summary: the visible and invisible
+
+### Disclaimer
+
+> This tutorial is provided "as is". The authors of this document are not responsible for any damage or claims from reading and applying information in this document.
+> This tutorial is based on the experience and knowledge from the authors at this time, coding and webdevelopment is continuously evolving; as such do not expect this document to be perfectly up-to-date or correct.
