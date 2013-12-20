@@ -8,7 +8,7 @@ So should you learn to code? Check this [Forbes article](http://www.forbes.com/s
 
    *What are the everyday effects of coding, how does it affect your life and can one identify code?*
 
-* Chapter 2. Different types of code
+* Chapter 2. 
 
 
 ### Disclaimer

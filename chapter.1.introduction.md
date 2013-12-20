@@ -25,3 +25,11 @@ When comparing programming languages to markup languages the difference lies in 
 Great web applications can only be built by understanding the basics. In my position as a developer I regularly see code from clients which is insecure, rigid and way too taxing.
 
 Every chapter in this book will require you to think hard about the ethics of programming; including performance, scalability and security. More on this in chapter [<X>](x).
+
+## How this book works
+
+After this introductory chapter we will dive into actually writing code as fast as possible. Each chapter will have additional reading material that will provide you a better understanding of code ethics, utilities and work process.
+
+You should at least have a tutor available to you for asking questions and checking your assignments. If you do not have a tutor yet, please contact me through my [github](https://github.com/Luceos) or [linkedin](http://linkedin.com/in/Luceos) account to find one for you.
+
+The best way to actually remember each chapter is to read it and then run through the assignments. Each chapter should be followed up with the next one within a week.
