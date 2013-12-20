@@ -17,3 +17,11 @@ Code exists in multiple categories. The PIN machine example is in fact machine c
 Next to our programming language we see a [Markup Language](http://en.wikipedia.org/wiki/Markup_language). Two well known markup languages are HTML and XML. These languages are like an unified agreement on how to format output. Web browsers expect a markup language to be outputted to them; being HTML the one that is most common.
 
 When comparing programming languages to markup languages the difference lies in what they do. Programming languages do not show output in a certain format, normally when programming languages output anything it's for debug purposes. Markup langauges on the other hand only show output in a certain way, they do not change the output by itself.
+
+## Why this introduction?
+
+> If we would teach people to drive their cars by simply pressing the gas and break levers they will never be great drivers. 
+
+Great web applications can only be built by understanding the basics. In my position as a developer I regularly see code from clients which is insecure, rigid and way too taxing.
+
+Every chapter in this book will require you to think hard about the ethics of programming; including performance, scalability and security. More on this in chapter [<X>](x).
