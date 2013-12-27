@@ -16,11 +16,13 @@ Now create a file called `index.php` and open it in a text editor like notepad.
 
 In order for the webserver to identify you are writing PHP you need to use opening and closing PHP tags:
 
-`<?PHP` and `?>` everything between these tags is parsed by the webserver as PHP.
+`<?PHP` and `?>` everything between these tags is parsed by the webserver as PHP. Note that a closing tag is not necessary if it's also the end of the file.
 
 So, let's try this on your site, in your `index.php` file write:
 
 ```php
 <?PHP
-?>
 ```
+
+Now open up your browser on [localhost](http://localhost) or [ipbased localhost](http://127.0.0.1) and see .. nothing! We've now only created an empty PHP file.
+
