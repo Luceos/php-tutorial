@@ -19,7 +19,11 @@ Follow this [tutorial by Digital Ocean](https://www.digitalocean.com/community/a
 
 ## Your webserver
 
-You now have made a local webserver. Webservers are computers, like yours, which are placed in a building (called datacenter) with a fast internet connection and other, for hosting, benefits.
+You now have made a local [webserver](http://en.wikipedia.org/wiki/Webserver). Webservers are computers, like yours, which are placed in a building (called [datacenter](http://en.wikipedia.org/wiki/Data_center)) with a fast internet connection and other, for hosting, benefits.
+
+### Anatomy of a webserver
+
+The webserver you now are running on your machine uses the software Apache, just like Microsoft Word, Apache is responsible for serving pages to a visitor. The default input it asks for is HTML. However you also installed PHP, which allows for dynamic functionality.
 
 ### Serving code
 
@@ -32,3 +36,7 @@ In development we talk about several development stages. The first being develop
 Not all companies keep to these 4 stages, but trying to adhere to them often increases the stability of the production environment. Production environments most often do not run on the same machine (webserver) as the other stages, because technical complications might create disruptions in the production environment.
 
 ### Why hosting your production website locally is unwise
+
+We have set up a webserver on your local machine now. Once you've mastered the basics of webdevelopment and have a website which you'd like to have online permantly I advise you to get some real webhosting; your mentor will have some preferred partners for that. If not, just take a look at [HostingXS](http://www.hostingxs.com).
+
+It's unwise to run production websites on your local machine or even at home. Although many homes are equipped with fiber internet, your equipment and connection can never match those of a datacenter.
