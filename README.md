@@ -16,6 +16,8 @@ So should you learn to code? Check this [Forbes article](http://www.forbes.com/s
 
    *Writing your first line of code and showing it on your screen. Also covers the first info about types and debugging code.*
 
+* [Chapter 4. Types and variables](https://github.com/Luceos/php-tutorial/blob/master/chapter.4.types-and-variables.md)
+
 ### Disclaimer
 
 > This tutorial is provided "as is". The authors of this document are not responsible for any damage or claims from reading and applying information in this document.

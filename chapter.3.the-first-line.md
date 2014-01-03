@@ -59,3 +59,5 @@ var_dump( array( "this" , "is" , "an" , "array" ) );
 ```
 
 The text now displaying in your browser shows you what the array is made up of.
+
+Please note in both examples the PHP command ends with a `;`. This is necessary for all commands, except for the ones using `{` and `}` - more on these in the chapter about loops.
