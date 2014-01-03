@@ -10,6 +10,11 @@ So should you learn to code? Check this [Forbes article](http://www.forbes.com/s
 
 * [Chapter 2. Set up your development](https://github.com/Luceos/php-tutorial/blob/master/chapter.2.setup.md)
 
+   *Set up your own development environment.*
+
+* [Chapter 3. The first line](https://github.com/Luceos/php-tutorial/blob/master/chapter.3.the-first-line.md)
+
+   *Writing your first line of code and showing it on your screen. Also covers the first info about types and debugging code.*
 
 ### Disclaimer
 
